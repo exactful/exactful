@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-# My latest posts 
+## My latest posts 
 
 <!-- BLOG-POST-LIST:START -->
 - [Optimising linear regression: A guide to applying gradient descent](https://dev.to/exactful/applying-gradient-descent-to-linear-regression-409e)
