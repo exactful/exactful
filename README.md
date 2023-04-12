@@ -1,5 +1,7 @@
 # Hi there 👋
 
+Training deep neural networks on large datasets by night.
+
 ## My latest posts 
 
 <!-- BLOG-POST-LIST:START -->
