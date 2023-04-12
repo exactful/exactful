@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Training deep neural networks on large datasets by night.
+I'm training deep neural networks on large datasets by night.
 
 ## My latest posts 
 
