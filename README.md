@@ -1,8 +1,10 @@
 # Hi there 👋
 
-I'm training deep neural networks on large datasets by night.
+I'm training deep neural networks on large datasets at night.
 
-## My latest posts 
+Here's a selection of ML resources that I've written, built or developed recently:
+
+## Posts 
 
 <!-- BLOG-POST-LIST:START -->
 - [Optimising linear regression: A guide to applying gradient descent](https://dev.to/exactful/applying-gradient-descent-to-linear-regression-409e)
@@ -11,6 +13,15 @@ I'm training deep neural networks on large datasets by night.
 - [Get started with Docker: The most useful commands you need](https://dev.to/exactful/getting-started-with-docker-4nj7)
 - [Virtual environments: How to avoid Python dependency hell with venv and pip freeze](https://dev.to/exactful/how-to-avoid-python-dependency-hell-with-venv-and-pip-freeze-1k0h)
 <!-- BLOG-POST-LIST:END -->
+
+## Datasets
+
+- [Wikipedia Movies: 16,000 movie titles, images and plots extracted from Wikipedia](https://www.kaggle.com/datasets/exactful/wikipedia-movies)
+    
+## Notebooks
+
+- [Mastering Digit Recognition: A Classic NN Approach](https://www.kaggle.com/code/exactful/mastering-digit-recognition-a-classic-nn-approach)
+- [Time Series Data: Temp Predictions with LSTMs](https://www.kaggle.com/code/exactful/time-series-data-temp-predictions-with-lstms)
 
 <!--
 **exactful/exactful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
