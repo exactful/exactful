@@ -20,6 +20,7 @@ Here's a selection of ML resources that I've written, built or developed recentl
     
 ## Notebooks
 
+- [Wikipedia Movies: Recommendations Using TF-IDF](https://www.kaggle.com/code/exactful/wikipedia-movies-recommendations-using-tf-idf)
 - [Mastering Digit Recognition: A Classic NN Approach](https://www.kaggle.com/code/exactful/mastering-digit-recognition-a-classic-nn-approach)
 - [Time Series Data: Temp Predictions with LSTMs](https://www.kaggle.com/code/exactful/time-series-data-temp-predictions-with-lstms)
 
